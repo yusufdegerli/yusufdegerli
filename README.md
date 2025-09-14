@@ -4,6 +4,10 @@
 **yusufdegerli/yusufdegerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufdegerli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdegerli&layout=compact&theme=tokyonight)
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
