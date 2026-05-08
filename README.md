@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yusuf  
 
-🚀 **AI-Native Full Stack Developer | SWE Tutor @ xAI | 42 Istanbul**  
+🚀 **AI-Native Full Stack Developer | STE Tutor @ xAI | 42 Istanbul**  
 💡 I build modern, scalable web and mobile applications, alongside my work in the AI space.  
 🔧 Experienced in crafting robust solutions with **React, Next.js, Supabase**, and **Flutter**, with a strong foundation in **C programming** and systems architecture.  
 
@@ -11,7 +11,11 @@
 - 🏗️ Developing full-stack web applications with **React (TypeScript), Next.js, and Supabase**  
 - 📱 Building fluid cross-platform mobile experiences with **Flutter & Dart**  
 - 💻 Solving complex algorithmic challenges and building systems from scratch via **42 Istanbul**
-- 🎬 **Fun Fact:** When I'm not writing code, I study cinema theory and write screenplays!
+
+---
+
+## 🎭 The Developer's Narrative
+Just as a well-crafted screenplay relies on solid structure and subtext, I believe great software is built on clean architecture and clear intent. Whether I'm orchestrating a complex React backend or refining an agentic AI workflow, I approach code like a modern *meddah*—weaving discrete technical components and data into a cohesive, user-centric story.
 
 ---
 
@@ -23,13 +27,16 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufdegerli&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdegerli&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufdegerli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdegerli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
----
+<br/>
 
-## ⚡ Fun GIF
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdegerli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
